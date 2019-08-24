@@ -1,1 +1,3 @@
 1st commit of d.txt
+2nd middle commit another add to d.txt file
+3rd last commit fourth_feature_branch another add to d.txt file
