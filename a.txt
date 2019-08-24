@@ -1,2 +1,2 @@
 Changing file to create 1st merge conflict.
-The first merge didn't work...Adding on collab_a branch to try again.
+That merge didn't work.  Created collab_a and collab_b to try again.  This is collab_b
