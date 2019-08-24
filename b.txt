@@ -1,0 +1,3 @@
+This is the first line of the second file
+And this is the second line of the same file
+This is the 3rd line of the b.txt file
