@@ -1,2 +1,5 @@
 Changing file to create 1st merge conflict.
 That merge didn't work.  Created collab_a and collab_b to try again.  This is collab_b
+This should be the first commit for a_collab branch.  4:21p
+This is the 2nd commit on a_collab branch. 423p
+This is the 1st commit on b_collab branch. 4:27p
