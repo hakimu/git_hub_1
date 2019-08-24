@@ -1,1 +1,2 @@
 Changing file to create 1st merge conflict.
+That merge didn't work.  Created collab_a and collab_b to try again.  This is collab_b
