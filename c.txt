@@ -2,3 +2,4 @@
 Modified c.txt file first time in third feature branch
 this will be 2nd commit of adding c.txt file
 3 = this will be 3rd commit of adding c.txt file
+modiful c.txt file in 1st commit of fourth_feature_branch
