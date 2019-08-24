@@ -1,1 +1,2 @@
 1st line of 3rd file c.txt
+Modified c.txt file first time in third feature branch
